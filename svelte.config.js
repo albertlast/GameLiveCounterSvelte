@@ -12,6 +12,9 @@ const config = {
 		  fallback: 'index.html',
 		}),
 		prerender: { entries: [] },
+		paths:{
+			base:'/bekeon/glcs'
+		}
 
 	  }
 };
